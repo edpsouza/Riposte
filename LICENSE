@@ -1,0 +1,23 @@
+Copyright (c) 2026 Eduardo De Souza. All rights reserved.
+
+PongPing, including its design, text, images, video, game builds and all other content in this
+repository, is the property of Eduardo De Souza.
+
+You may view this repository, and download and play the released builds of PongPing for your
+own personal, noncommercial use.
+
+You may not, without prior written permission:
+
+- copy, modify, adapt, translate or create works based on PongPing or any content in this
+  repository;
+- publish, share, sell, rent or otherwise redistribute PongPing, its builds or any content in
+  this repository;
+- extract, decompile or reverse engineer the game or the assets in it.
+
+Third-party components keep their own licenses. The game includes the Godot Engine (MIT License),
+the Poppins font (SIL Open Font License 1.1), and music and sound effects by Pizza Doggy, used
+under license. Their notices are in THIRD-PARTY-NOTICES.txt, which comes with each download.
+
+THE GAME AND THIS CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THE GAME OR THIS CONTENT.
