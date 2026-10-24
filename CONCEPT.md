@@ -23,7 +23,7 @@ a keyboard on a desktop.
 | **Genre** | Arcade sports, roguelite run structure |
 | **Players** | 1, against the computer |
 | **Session** | A run is three matches of one minute each, about 4 to 6 minutes with menus |
-| **Platforms** | macOS (download), iOS (in testing), Windows (planned) |
+| **Platforms** | macOS (v0.1 pre-release), iOS (in testing), Windows (planned) |
 | **Engine** | Godot 4.7, GDScript, Compatibility renderer |
 | **Tone** | Bright, cozy and playful, with competitive bite |
 
@@ -193,7 +193,7 @@ the match can't skip them.
 
 | Platform | Status |
 | --- | --- |
-| **macOS** | Exported and played; universal app, ad-hoc signed |
+| **macOS** | v0.1 pre-release, a universal app; ad-hoc signed, not yet notarized |
 | **iOS** | Exported and played on an iPhone 12 Pro Max; personal team signing |
 | **Windows** | Planned, once it has been tested |
 
@@ -259,4 +259,5 @@ Not built yet, for discussion:
 
 | Date | Change |
 | --- | --- |
+| 2026-10-24 | First public pre-release, **v0.1**, for macOS. |
 | 2026-10-24 | Concept document created, covering everything built so far: the core game, the opponent ladder, upgrades, touch controls, screen fitting and pace, goal lines, soundtrack, title and settings screens, and the pause menu with Quit Match. |
