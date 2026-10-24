@@ -6,7 +6,7 @@
 
 **A fast, timed take on the classic paddle game. Climb a ladder of rivals, grab upgrades, beat the boss.**
 
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-F3D55B?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/edpsouza/PongPing/releases/latest/download/PongPing-macOS.zip)
+[![Download for macOS](https://img.shields.io/badge/Download%20v0.1-macOS-F3D55B?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/edpsouza/PongPing/releases/download/v0.1/PongPing-macOS.zip)
 [![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-26B99A?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 [![macOS](https://img.shields.io/badge/macOS-11%2B-14A085?style=flat-square&logo=apple&logoColor=white)](#%EF%B8%8F-get-the-game)
@@ -97,7 +97,7 @@ After each win, pick one of three. They last until the run ends.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/ffffff"><img src="https://cdn.simpleicons.org/apple/000000" alt="" width="20" height="20"></picture> macOS
 
-**[Download PongPing for macOS](https://github.com/edpsouza/PongPing/releases/latest/download/PongPing-macOS.zip)**, unzip it, and drag
+**[Download PongPing for macOS](https://github.com/edpsouza/PongPing/releases/download/v0.1/PongPing-macOS.zip)**, unzip it, and drag
 **PongPing** into Applications. It runs on Apple Silicon and Intel Macs with macOS 11 or newer.
 
 > [!NOTE]
