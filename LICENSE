@@ -1,22 +1,27 @@
 Copyright (c) 2026 Eduardo De Souza. All rights reserved.
 
-PongPing, including its design, text, images, video, game builds and all other content in this
+Riposte, including its design, text, images, video, game builds and all other content in this
 repository, is the property of Eduardo De Souza.
 
-You may view this repository, and download and play the released builds of PongPing for your
+You may view this repository, and download and play the released builds of Riposte for your
 own personal, noncommercial use.
 
 You may not, without prior written permission:
 
-- copy, modify, adapt, translate or create works based on PongPing or any content in this
+- copy, modify, adapt, translate or create works based on Riposte or any content in this
   repository;
-- publish, share, sell, rent or otherwise redistribute PongPing, its builds or any content in
+- publish, share, sell, rent or otherwise redistribute Riposte, its builds or any content in
   this repository;
 - extract, decompile or reverse engineer the game or the assets in it.
 
-Third-party components keep their own licenses. The game includes the Godot Engine (MIT License),
-the Poppins font (SIL Open Font License 1.1), and music and sound effects by Pizza Doggy, used
-under license. Their notices are in THIRD-PARTY-NOTICES.txt, which comes with each download.
+Third-party components keep their own licenses, and the rights in them stay with their creators;
+this license doesn't cover them. The game includes the Godot Engine (MIT License), and art, music,
+sound effects and fonts used under license: the Boss Portraits pack, the Complete UI Essential Pack
+by Crusenho (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; scaled up, recolored and
+only partly used), the Pixel Art Tiles pack by Marauder Games, the Pixel Fantasy music pack by
+AlkaKrab, the Cozy FX sounds by Pizza Doggy, the Diary of an 8-bit mage font by Chequered Ink, and
+the Poppins font (SIL Open Font License 1.1). The screenshots and video in this repository show
+some of that art. The notices are in THIRD-PARTY-NOTICES.txt, which comes with each download.
 
 THE GAME AND THIS CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
